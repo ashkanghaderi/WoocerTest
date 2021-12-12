@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "183700C5-3EF1-47D0-A1B0-2D1409A402A1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "427CB7EF-B01E-47D2-A75A-63B773DE8334"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkPlatform/Services/AuthorizationDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "requestLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F42D6303-000E-4702-B89C-B38892CDA8EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkPlatform/Services/HomeDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "didReceive(_:target:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F42D6303-000E-4702-B89C-B38892CDA8EC - 90a74b02335dfb40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetworkPlatform.VerbosePlugin.didReceive(_: Domain.Result&lt;Moya.Response&gt;, target: Moya.TargetType) -&gt; ()"
+                  moduleName = "NetworkPlatform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashkan/Desktop/WoocerTest/NetworkPlatform/Services/HomeDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "F42D6303-000E-4702-B89C-B38892CDA8EC - 90a74b02335dfb40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetworkPlatform.VerbosePlugin.didReceive(_: Domain.Result&lt;Moya.Response&gt;, target: Moya.TargetType) -&gt; ()"
+                  moduleName = "NetworkPlatform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashkan/Desktop/WoocerTest/NetworkPlatform/Services/HomeDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91FCED41-C29C-40B4-AEEE-5DA0FB04E83E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WoocerTest/Scene/Home/Cell/ProductCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "bind(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
